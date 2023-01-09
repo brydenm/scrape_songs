@@ -1,5 +1,5 @@
 # scrape_songs
-A work in progress
+A placeholder /  work in progress
 
 Scraping a list of songs and their chords to identify songs with similar chord progressions.
 
